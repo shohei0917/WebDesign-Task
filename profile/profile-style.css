@@ -1,3 +1,15 @@
-.text-blue{
-    color: blue;
+li{
+    color: tomato;
+}
+.text-red{
+    color: red;
+}
+#bg-bule{
+    background-color: yellow;
+}
+.bg-blue{
+    background-color: blue;
+}
+span{
+    border: 3px double aqua;
 }
