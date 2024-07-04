@@ -1,0 +1,22 @@
+.red-back {
+    background-color: red;
+    color: white;
+    font-size: 0.7rem;
+    border-radius: 25% 45%;
+}
+.brackets {
+    font-size: 0.6rem;
+}
+th{
+    background-color: #808080;
+    text-align: left;
+    vertical-align: top;
+    color: aliceblue;
+    padding: 10px;
+}
+td{
+    background-color: silver;
+    text-align: left;
+    vertical-align: top;
+    padding: 10px;
+}
